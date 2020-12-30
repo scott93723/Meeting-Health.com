@@ -3813,10 +3813,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://img.imych.one/sw/frc/images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://img.imych.one/sw/frc/images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://img.imych.one/sw/frc/images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://img.imych.one/sw/frc/images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t31.0-8/15252686_1163462813745475_8633502649692106528_o.jpg?_nc_cat=100&ccb=2&_nc_sid=e3f864&_nc_ohc=Q6bcHab1MU4AX_qbr7A&_nc_ht=scontent.ftpe8-2.fna&oh=9167686594f10bb28d39ca02331487a7&oe=6011D4FE");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t31.0-8/15252686_1163462813745475_8633502649692106528_o.jpg?_nc_cat=100&ccb=2&_nc_sid=e3f864&_nc_ohc=Q6bcHab1MU4AX_qbr7A&_nc_ht=scontent.ftpe8-2.fna&oh=9167686594f10bb28d39ca02331487a7&oe=6011D4FE");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t31.0-8/15252686_1163462813745475_8633502649692106528_o.jpg?_nc_cat=100&ccb=2&_nc_sid=e3f864&_nc_ohc=Q6bcHab1MU4AX_qbr7A&_nc_ht=scontent.ftpe8-2.fna&oh=9167686594f10bb28d39ca02331487a7&oe=6011D4FE");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://scontent.ftpe8-2.fna.fbcdn.net/v/t31.0-8/15252686_1163462813745475_8633502649692106528_o.jpg?_nc_cat=100&ccb=2&_nc_sid=e3f864&_nc_ohc=Q6bcHab1MU4AX_qbr7A&_nc_ht=scontent.ftpe8-2.fna&oh=9167686594f10bb28d39ca02331487a7&oe=6011D4FE");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
